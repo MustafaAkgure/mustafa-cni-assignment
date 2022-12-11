@@ -1,0 +1,5 @@
+rest:
+  config:
+    mledoze-countries:
+      name: mledoze-countries
+      url: https://raw.githubusercontent.com/mledoze/countries
